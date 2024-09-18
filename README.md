@@ -55,13 +55,5 @@
 
 <hr>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img src="https://raw.githubusercontent.com/SiddharthaNegi127/SiddharthaNegi127/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/SiddharthaNegi127/SiddharthaNegi127/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
- 
-  <br/><br/><br/>
-</div>
  
 
