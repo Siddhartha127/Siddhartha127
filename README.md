@@ -5,10 +5,9 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Hey Greetings, I am a Computer Science student with a strong focus on Software Engineering, as well as a deep interest in the fields of Machine Learning and Artificial Intelligence.. I'm continually sharpening my skills in tackling complex problems  🚀</p>
+    <p>Hey Greetings, I am a Computer Science student with a strong focus on Software Engineering, as well as a deep interest in the fields of Machine Learning and Artificial Intelligence.. I'm continually sharpening my skills in tackling complex problems  🚀 </p>
 
-<p>
-      
+<p>   
   <a href="https://www.linkedin.com/in/siddhartha-negi-702063226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
