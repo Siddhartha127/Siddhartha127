@@ -13,9 +13,9 @@
   <a href="https://www.linkedin.com/in/siddhartha-negi-702063226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <a href="mailto:negisid125@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+</a>
     <a href="https://github.com/Siddhartha127" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
   </a>
